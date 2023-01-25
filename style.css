@@ -1,0 +1,15 @@
+table.a {
+    border:red 1px solid;
+}
+td.b{
+    border: blue 3px solid;
+} 
+table.c{
+    border: green 1px solid;
+    width: 500px;
+    text-align: center;
+    
+}
+td.d{
+    border: green 1px solid;
+}
